@@ -4,7 +4,7 @@
 -- The type for booleans and some operations
 ------------------------------------------------------------------------
 
-{-# OPTIONS --without-K --safe #-}
+{-# OPTIONS --without-K --safe --no-guardedness #-}
 
 module Data.Bool.Base where
 

@@ -4,7 +4,7 @@
 -- Strictness combinators
 ------------------------------------------------------------------------
 
-{-# OPTIONS --without-K --safe #-}
+{-# OPTIONS --without-K --safe --no-guardedness #-}
 
 module Strict where
 

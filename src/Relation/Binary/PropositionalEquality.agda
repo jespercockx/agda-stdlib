@@ -4,7 +4,7 @@
 -- Propositional (intensional) equality
 ------------------------------------------------------------------------
 
-{-# OPTIONS --without-K --safe #-}
+{-# OPTIONS --without-K --safe --no-guardedness #-}
 
 module Relation.Binary.PropositionalEquality where
 

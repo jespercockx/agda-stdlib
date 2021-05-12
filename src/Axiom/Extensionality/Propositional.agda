@@ -4,7 +4,7 @@
 -- Results concerning function extensionality for propositional equality
 ------------------------------------------------------------------------
 
-{-# OPTIONS --without-K --safe #-}
+{-# OPTIONS --without-K --safe --no-guardedness #-}
 
 module Axiom.Extensionality.Propositional where
 
